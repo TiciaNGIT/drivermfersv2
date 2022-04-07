@@ -10,7 +10,7 @@
   "SYMBOL": "drivermfers",
   "MAX_SUPPLY": 3333,
   "WEI_COST": 0,
-  "DISPLAY_COST": 0,
+  "DISPLAY_COST": 0.0001,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opensea",
   "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/drivermfers",
