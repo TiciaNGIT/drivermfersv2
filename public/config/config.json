@@ -9,10 +9,10 @@
   "NFT_NAME": "drivermfers",
   "SYMBOL": "drivermfers",
   "MAX_SUPPLY": 3333,
-  "WEI_COST": 4000000000000000000,
-  "DISPLAY_COST": 4,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
   "GAS_LIMIT": 285000,
-  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE": "Opensea",
   "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/drivermfers",
   "SHOW_BACKGROUND": true
 }
